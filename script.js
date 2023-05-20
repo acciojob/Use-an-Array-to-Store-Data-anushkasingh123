@@ -1,1 +1,1 @@
-let yourArray = ["thief" , 2 , false];
+let yourArray = ["thief" , 2 , false , null , undefined , "hell"];
